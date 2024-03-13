@@ -134,3 +134,20 @@ input:focus, button:focus {
     border-color: #3c00a0;
     box-shadow: 0 0 5px #3c00a0;
 }
+/* Add responsive design adjustments */
+@media (max-width: 768px) {
+    .form-box {
+        width: 80%;
+        padding: 40px 30px 50px;
+    }
+}
+/* Customize placeholder text color */
+input::placeholder {
+    color: #999;
+}
+/* Enhance focus styles for accessibility */
+input:focus, button:focus, a:focus {
+    outline: 2px solid #3c00a0; /* More noticeable outline */
+    box-shadow: 0 0 5px rgba(60, 0, 160, 0.5); /* Soft glow effect */
+}
+
