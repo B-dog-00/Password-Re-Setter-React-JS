@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://b-dog-00.github.io/React-Password-Resetter-Final/",
+  "homepage": "https://B-dog-00.github.io/Password-Re-Setter-React-JS",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
